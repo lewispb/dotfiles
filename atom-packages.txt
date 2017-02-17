@@ -1,0 +1,15 @@
+aligner@0.22.3
+aligner-ruby@1.5.0
+git-plus@7.2.2
+line-count@0.5.0
+linter-rubocop@0.5.3
+open-recent@5.0.0
+rails-rspec@0.3.2
+rspec@0.3.2
+ruby-syntax-replacer@0.5.1
+split-diff@1.1.4
+tabs-to-spaces@1.0.3
+term3@0.22.1
+toggle-quotes@1.0.0
+trailing-spaces@0.4.0
+
