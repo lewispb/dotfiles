@@ -1,0 +1,17 @@
+{
+	"ensure_newline_at_eof_on_save": true,
+	"font_face": "Inconsolata",
+	"font_size": 17,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"rspec_add_to_path": "$HOME/.rbenv/shims",
+	"rulers":
+	[
+		120
+	],
+	"tab_size": 2,
+	"theme": "Agila.sublime-theme",
+	"translate_tabs_to_spaces": true
+}
