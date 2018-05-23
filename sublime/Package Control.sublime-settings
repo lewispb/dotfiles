@@ -1,0 +1,32 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Agila Theme",
+		"Copy Relative Path",
+		"DashDoc",
+		"Diffy",
+		"Git blame",
+		"Git Conflict Resolver",
+		"GitDiffHelper",
+		"Github Notifications",
+		"GitHubinator",
+		"GitSavvy",
+		"Haml",
+		"MarkdownLivePreview",
+		"Package Control",
+		"Rails Latest Migration",
+		"RailsGoToSpec",
+		"RSpec",
+		"Ruby Hash Converter",
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"SublimeLinter-rubocop",
+		"TestRSpec",
+		"Unit Test File Toggler",
+		"Whitespace"
+	]
+}
